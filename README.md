@@ -121,3 +121,4 @@ The service will respond with a JSON object like this:
 **Important**: If you don't provide any URLs, the API will return a `400 Bad Request` error.
 
 Happy scraping\!
+if you are encountering any issues please let me know, at midhunsmanoj771@gmail.com
